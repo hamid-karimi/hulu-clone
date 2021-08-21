@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a href="https://hulu-hamid-karimi.vercel.app/">Live Demo</a>
+
+A next.js app with Tailwind css, Redux and TMDB API.
+
+You need to set your own TMDB API_KEY in .env File.
 
 ## Getting Started
 
